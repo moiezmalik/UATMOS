@@ -1,0 +1,21 @@
+
+.bio-col{
+  text-align: left;
+}
+
+
+.carousel-control-next-icon:after
+{
+  content: '>';
+  font-size: 95px;
+  color: rgb(78, 27, 44);
+  font-weight: 600;
+}
+
+.carousel-control-prev-icon:after {
+  content: '<';
+  font-size: 95px;
+  color: rgb(78, 27, 44);
+  font-weight: 600;
+
+}
